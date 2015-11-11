@@ -6,4 +6,7 @@ on github edit!
 s e c o n d   c o m m i t  
  aaacccccbbb
 
-mmm zzz eeee ccc ccc
+mmm zzz eeee ccc ccc"git-basics" 
+
+test001
+"bbb" 
